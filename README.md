@@ -1,4 +1,4 @@
-# product-management
+# Machito's Guide to Modern Product Management
 A collection of product management resources
 
 ### Design Sprints
