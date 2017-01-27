@@ -9,4 +9,5 @@ A collection of product management resources
 
 ### Agile Development
 
+* [Atlassian](https://www.atlassian.com/software/jira/agile) – Many of Atlassian's products are built for agile development
 * [The Agile Coach](https://www.atlassian.com/agile) – Atlassian's "no-nonsense guide to agile development" 
