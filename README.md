@@ -1,5 +1,5 @@
-# Product Management
-A collection of product management resources
+# Product Ops
+A collection of product resources for product owners, product managers, engineers, designers, and even scrum masters and stakeholders.
 
 ### Design Sprints
 
